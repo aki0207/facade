@@ -36,5 +36,4 @@ public class HtmlWriter {
 		writer.write("</html>\n");
 		writer.close();
 	}
-
 }
